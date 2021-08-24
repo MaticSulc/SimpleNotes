@@ -1,0 +1,6 @@
+*.config
+*.css
+*.min.css
+*.min.js
+*.min.css.map
+*.min.js.map
